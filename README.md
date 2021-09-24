@@ -1,1 +1,1 @@
-# Multimodal-data-fusion-for-Alzheimer-s-disease-diagnosis-
+# Multimodal data fusion for Alzheimer’s disease diagnosis
